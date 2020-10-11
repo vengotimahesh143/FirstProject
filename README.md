@@ -36,4 +36,8 @@ in this repository we will explain how to use markdown syntax.
 [Facebook](https://www.facebook.com)
 
 Youtube (https://www.youtube.com)
+
+http://github.com - automatic
+
+[GitHub](http://github.com)
  
