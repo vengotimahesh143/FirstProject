@@ -51,7 +51,9 @@ public class AddTwoNumbers {
       System.out.println("Sum of these numbers: "+sum);
    }
 }
-
-
 ```
- 
+
+s.No|Name
+----|----
+1|mastan
+2|vali
