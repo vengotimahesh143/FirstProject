@@ -66,4 +66,6 @@ http://www.instagram.com/
 
 ~~this is striked of~~
 
+:smiling_face_with_three_hearts:
 
+:star_struck:
