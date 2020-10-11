@@ -53,7 +53,11 @@ public class AddTwoNumbers {
 }
 ```
 
-s.No|Name
+S.No|Name
 ----|----
 1|mastan
 2|vali
+3|mahesh
+4|ravi
+
+
